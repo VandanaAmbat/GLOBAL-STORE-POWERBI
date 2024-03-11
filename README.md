@@ -7,5 +7,6 @@ A global store data report Analysis have been done in this repository using POWE
     Detailed Analysis
 
 I have tried to use Various visualisations like Cards, pie chart, Table, Bar & line Graph, slicers, to simplify the lumpsum data to a more easy level of understanding in POWER BI desktop.
-    
+
+Video link is shared below     
 https://drive.google.com/file/d/1QUfXY_Bvb4kUUsrsOZ0cGTNgXxu3ZIyo/view?usp=sharing
